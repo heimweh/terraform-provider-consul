@@ -11,8 +11,8 @@
 		{
 			"checksumSHA1": "+2yCNqbcf7VcavAptooQReTGiHY=",
 			"path": "github.com/apparentlymart/go-rundeck-api",
-			"revision": "f6af74d34d1ef69a511c59173876fc1174c11f0d",
-			"revisionTime": "2016-08-26T14:30:32Z"
+			"revision": "2c962acae81080a937c350a5bea054c239f27a81",
+			"revisionTime": "2017-07-05T17:22:45Z"
 		},
 		{
 			"checksumSHA1": "fFU9OeM0pKWGL3D+Fa3PmHSjjLg=",
@@ -245,6 +245,12 @@
 			"path": "github.com/go-ini/ini",
 			"revision": "766e555c68dc8bda90d197ee8946c37519c19409",
 			"revisionTime": "2017-01-17T13:00:17Z"
+		},
+		{
+			"checksumSHA1": "FVdRTUYBiiJh+Is0bRg6LLpoOhc=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "292fd08b2560ad524ee37396253d71570339a821",
+			"revisionTime": "2018-01-10T14:15:25Z"
 		},
 		{
 			"checksumSHA1": "ygEjA1d52B1RDmZu8+1WTwkrYDQ=",
@@ -485,6 +491,18 @@
 			"versionExact": "v0.10.0"
 		},
 		{
+			"checksumSHA1": "Fzbv+N7hFXOtrR6E7ZcHT3jEE9s=",
+			"path": "github.com/hashicorp/terraform/helper/structure",
+			"revision": "eba73a3bb42e0fb591a33d4d431a5a31e8b6daf0",
+			"revisionTime": "2018-01-18T00:07:19Z"
+		},
+		{
+			"checksumSHA1": "6O4zxgqAD+QZm6plsIfl4MH310Q=",
+			"path": "github.com/hashicorp/terraform/helper/validation",
+			"revision": "eba73a3bb42e0fb591a33d4d431a5a31e8b6daf0",
+			"revisionTime": "2018-01-18T00:07:19Z"
+		},
+		{
 			"checksumSHA1": "yFWmdS6yEJZpRJzUqd/mULqCYGk=",
 			"path": "github.com/hashicorp/terraform/moduledeps",
 			"revision": "5bcc1bae5925f44208a83279b6d4d250da01597b",
@@ -557,10 +575,22 @@
 			"revisionTime": "2016-10-03T17:45:16Z"
 		},
 		{
+			"checksumSHA1": "xCv4GBFyw07vZkVtKF/XrUnkHRk=",
+			"path": "github.com/pkg/errors",
+			"revision": "e881fd58d78e04cf6d0de1217f8707c8cc2249bc",
+			"revisionTime": "2017-12-16T07:03:16Z"
+		},
+		{
 			"checksumSHA1": "u5s2PZ7fzCOqQX7bVPf9IJ+qNLQ=",
 			"path": "github.com/rancher/go-rancher",
 			"revision": "ec24b7f12fca9f78fbfcd62a0ea8bce14ade8792",
 			"revisionTime": "2017-04-07T04:09:43Z"
+		},
+		{
+			"checksumSHA1": "HaWkK5qs6scz0y5pm+R13bEDBOI=",
+			"path": "github.com/rancher/go-rancher/client",
+			"revision": "5d4e55e3f5de872bd5136d538139fffad238ad3a",
+			"revisionTime": "2017-12-19T19:17:06Z"
 		},
 		{
 			"checksumSHA1": "zmC8/3V4ls53DJlNTKDZwPSC/dA=",
